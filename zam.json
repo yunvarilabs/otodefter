@@ -1,10 +1,13 @@
 {
+  "status": true,
+  "time": "2026-08-20",
   "id": "2026-08-20-motorin-zam",
-  "effectiveDate": "20 Ağustos 2026 gece yarısı",
+  "effectiveDate": "bu gece yarısı",
   "applied": false,
-  "note": "Sektör kaynaklarına göre, resmî değildir.",
+  "note": "Sektör kaynaklarına dayanır, resmî değildir.",
   "changes": [
-    { "kind": "MOTORIN", "direction": "ZAM", "amount": 5.80 },
-    { "kind": "BENZIN",  "direction": "INDIRIM", "amount": 0.85 }
+    { "status": true,  "kind": "MOTORIN", "direction": "ZAM",     "amount": 2.15 },
+    { "status": true,  "kind": "BENZIN",  "direction": "INDIRIM", "amount": 0.85 },
+    { "status": false, "kind": "LPG",     "direction": "ZAM",     "amount": 1.10 }
   ]
 }
