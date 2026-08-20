@@ -4,7 +4,7 @@
   "id": "2026-08-21-motorin-zam",
   "effectiveDate": "22 Ağustos 2026 Cumartesi",
   "applied": false,
-  "note": "Sektör kaynaklarına dayanır, resmî değildir.",
+  "note": "Sektör kaynaklarına göre resmî değildir.",
   "changes": [
     { "status": true,  "kind": "MOTORIN", "direction": "ZAM",     "amount": 3.27 },
     { "status": false,  "kind": "BENZIN",  "direction": "INDIRIM", "amount": 0.85 },
