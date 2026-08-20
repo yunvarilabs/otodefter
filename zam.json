@@ -1,1 +1,10 @@
-Test veriri Zam gelecek
+{
+  "id": "2026-08-20-motorin-zam",
+  "effectiveDate": "20 Ağustos 2026 gece yarısı",
+  "applied": false,
+  "note": "Sektör kaynaklarına dayanır, resmî değildir.",
+  "changes": [
+    { "kind": "MOTORIN", "direction": "ZAM", "amount": 2.15 },
+    { "kind": "BENZIN",  "direction": "INDIRIM", "amount": 0.85 }
+  ]
+}
