@@ -4,7 +4,7 @@
   "applied": false,
   "note": "Sektör kaynaklarına göre, resmî değildir.",
   "changes": [
-    { "kind": "MOTORIN", "direction": "ZAM", "amount": 2.15 },
+    { "kind": "MOTORIN", "direction": "ZAM", "amount": 5.80 },
     { "kind": "BENZIN",  "direction": "INDIRIM", "amount": 0.85 }
   ]
 }
