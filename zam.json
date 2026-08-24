@@ -1,13 +1,13 @@
 {
   "status": true,
-  "time": "2026-08-21",
-  "id": "2026-08-21-motorin-zam-",
-  "effectiveDate": "22 Ağustos 2026 Cumartesi",
+  "time": "2026-08-24",
+  "id": "2026-08-24-benzin-zam-",
+  "effectiveDate": "25 Ağustos 2026 Salı",
   "applied": false,
-  "note": "Bu geçerli olacak şekilde motorine 2,90TL zam beklenmektedir. kamu yararı gözetilerek, uluslararası  piyasalardaki ürün fiyatlarının son günlerdeki ortalamasına bakılarak hesaplanmıştır ve Sektör kaynaklarına göre resmî değildir.",
+  "note": "Bu gece yarisindan itibaren gecerli olacak şekilde benzine 2,74TL zam beklenmektedir. Sektör kaynaklarına göre resmî değildir.",
   "changes": [
-    { "status": true,  "kind": "MOTORIN", "direction": "ZAM",     "amount": 2.90 },
-    { "status": false,  "kind": "BENZIN",  "direction": "INDIRIM", "amount": 0.85 },
+    { "status": false,  "kind": "MOTORIN", "direction": "ZAM",     "amount": 2.90 },
+    { "status": true,  "kind": "BENZIN",  "direction": "ZAM", "amount": 2.74 },
     { "status": false, "kind": "LPG",     "direction": "ZAM",     "amount": 1.10 }
   ]
 }
