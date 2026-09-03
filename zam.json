@@ -4,7 +4,7 @@
   "id": "2026-09-03-motorin-benzin-zam-1",
   "effectiveDate": "04 Eylül 2026 Cuma",
   "applied": false,
-  "note": "Bu gece yarisindan itibaren gecerli olacak şekilde motorine 7,76TL, benzine 2,47TL zam beklenmektedir. Sektör kaynaklarına göre resmî değildir.",
+  "note": "Bu gece yarisindan itibaren gecerli olacak şekilde motorine 7,76TL, benzine 2,47TL zam+indirim beklenmektedir. Sektör kaynaklarına göre resmî değildir.",
   "changes": [
     { "status": true,  "kind": "MOTORIN", "direction": "ZAM",     "amount": 7.76 },
     { "status": true,  "kind": "BENZIN",  "direction": "INDIRIM", "amount": 2.47 },
