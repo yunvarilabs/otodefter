@@ -1,12 +1,12 @@
 {
   "status": true,
-  "time": "2026-08-26",
-  "id": "2026-08-26-motorin-indirim-",
-  "effectiveDate": "27 Ağustos 2026 Perşembe",
+  "time": "2026-09-03",
+  "id": "2026-09-03-motorin-zam-",
+  "effectiveDate": "04 Eylül 2026 Cuma",
   "applied": false,
-  "note": "Bu gece yarisindan itibaren gecerli olacak şekilde motorine 5,36TL indrim beklenmektedir. Sektör kaynaklarına göre resmî değildir.",
+  "note": "Bu gece yarisindan itibaren gecerli olacak şekilde motorine 8,24TL indrim beklenmektedir. Sektör kaynaklarına göre resmî değildir.",
   "changes": [
-    { "status": true,  "kind": "MOTORIN", "direction": "INDIRIM",     "amount": 5.36 },
+    { "status": true,  "kind": "MOTORIN", "direction": "ZAM",     "amount": 8.24 },
     { "status": false,  "kind": "BENZIN",  "direction": "ZAM", "amount": 2.00 },
     { "status": false, "kind": "LPG",     "direction": "ZAM",     "amount": 1.10 }
   ]
